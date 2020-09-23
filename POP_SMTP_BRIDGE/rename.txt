@@ -1,0 +1,1 @@
+Running rename.bat will rename pop_smtp_bridge.ex_ to pop_smtp_bridge.exe
